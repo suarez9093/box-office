@@ -24,6 +24,7 @@ Box Office
 ## Built With
 
 - [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
 
 ### Installation
 
